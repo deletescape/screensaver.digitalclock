@@ -1,6 +1,6 @@
 # Kodi Media Center language file
 # Addon Name: Digital Clock Screensaver
-# Addon id: screensaver.digitalclock
+# Addon id: screensaver.digitalclock-material
 # Addon Provider: Vojislav Vlasic
 msgid ""
 msgstr ""
