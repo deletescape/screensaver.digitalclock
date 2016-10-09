@@ -6,7 +6,7 @@
         <requires>
         	<import addon="xbmc.python" version="2.20.0"/>
   	</requires>
-  	<extension point="xbmc.ui.screensaver-material" library="default.py" />
+  	<extension point="xbmc.ui.screensaver" library="default.py" />
   	<extension point="xbmc.addon.metadata">
     		<platform>all</platform>
     		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
