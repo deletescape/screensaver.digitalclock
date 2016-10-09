@@ -127,7 +127,7 @@ class Screensaver(xbmcgui.WindowXMLDialog):
         self.transparency = ['FF','E5','CC','B2','99','7F','66','4C','33','19','00']
 
 		#setting up colors
-        self.color = ['FFFFFF','FF0000','00FF00','0000FF','FFFF00','000000']
+        self.color = ['EEEEEE','FF0000','00FF00','0000FF','FFFF00','000000']
 
 		#setting up shadow colors
         self.shadowcolor = ['00000000','FFFFFFFF','FF808080','FF000000']
